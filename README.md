@@ -1,3 +1,10 @@
+# What is included
+
+Included in this repositroty are:
+1) The four simulated datasets used in the paper. 
+2) The R code used to produce the three figures in the paper. You will need to change the file_path to match where you have downlaod the data files to. 
+3) The three real datasets used in the paper (references to the data are given below)
+
 # Data references
 
 Below are the references for the three real datasets used in the paper. 
@@ -15,10 +22,7 @@ methicillin-resistant staphylococcus aureus sequence type 398 survival.
 PLoS One, 9(2):e89018.
 
 S.Typhimurium data are derived from:
-Barquist,L.,Boinett,C.J.,andCain,A.K.(2013). Approachestoquerying
+Barquist,L.,Boinett,C.J.,andCain,A.K.(2013). Approaches to querying
 bacterial genomes with transposon-insertion sequencing. RNA biology,
 10(7):1161–1169.
 
-The four simulated datasets used in the paper are also included. 
-
-The R code to reproduce the three figures in the paper. You will need to change the file_path to where you have downlaod the data files to. 
