@@ -1,5 +1,7 @@
 # Data references
 
+Below are the references for the three real datasets used in the paper. 
+
 E.coli data are derived from:
 Goodall, E. C., Robinson, A., Johnston, I. G., Jabbari, S., Turner, K. A.,
 Cunningham,A.F.,Lund,P.A.,Cole,J.A.,andHenderson,I.R.(2018).
@@ -17,3 +19,6 @@ Barquist,L.,Boinett,C.J.,andCain,A.K.(2013). Approachestoquerying
 bacterial genomes with transposon-insertion sequencing. RNA biology,
 10(7):1161–1169.
 
+The four simulated datasets used in the paper are also included. 
+
+The R code to reproduce the three figures in the paper. You will need to change the file_path to where you have downlaod the data files to. 
